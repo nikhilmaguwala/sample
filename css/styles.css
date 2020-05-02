@@ -32,3 +32,12 @@
 a{
     color: #553D67;
 }
+
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0px;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
+}
